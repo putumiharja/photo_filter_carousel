@@ -1,16 +1,5 @@
-# photo_filter_carousel
+# Praktikum 1 : Photo Filter
 
-A new Flutter project.
+Berikut hasil dari Latihan Photo Filter
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image alt](https://github.com/putumiharja/photo_filter_carousel/blob/695838dd25628ccf26b4d88e5b2f2ac4ec05e31e/Hasil%20photo%20filter%20carousel.png)
